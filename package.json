@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mikkybang/express-typescript-graphql/issues"
   },
-  "homepage": "https://github.com/mikkybang/express-typescript-graphql#readme"
+  "homepage": "https://github.com/mikkybang/express-typescript-graphql#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
