@@ -23,10 +23,12 @@
     "@graphql-codegen/typescript": "1.21.1",
     "@graphql-codegen/typescript-mongodb": "1.18.1",
     "@graphql-codegen/typescript-resolvers": "1.19.0",
+    "@types/lodash": "^4.14.168",
     "graphql-tools": "^7.0.4",
     "typescript": "^4.2.4"
   },
   "dependencies": {
-    "graphql": "^15.5.0"
+    "graphql": "^15.5.0",
+    "lodash": "^4.17.21"
   }
 }
