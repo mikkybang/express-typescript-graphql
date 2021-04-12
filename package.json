@@ -1,0 +1,20 @@
+{
+  "name": "express-typescript-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkybang/express-typescript-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkybang/express-typescript-graphql/issues"
+  },
+  "homepage": "https://github.com/mikkybang/express-typescript-graphql#readme"
+}
